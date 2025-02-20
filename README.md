@@ -1,7 +1,7 @@
 <img align="right" alt="coding" height="100" width="1920" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI3MGF1djVhZ2lzMjBqYmdiOGJidmdyejFmaWE1OTUzd25qdHY1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.webp">
 <h1 align="center">Hi 👋, I'm Arshil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="coding" width="300" src="https://media1.tenor.com/m/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iarsh-gour18&label=Profile%20views&color=0e75b6&style=flat" alt="arshil83" /> </p>
 
